@@ -1,3 +1,11 @@
+/**
+ * Geometry Application: This is console based application to find Perimeter and Area of Square, Rectangle and Circle. 
+ * This Application is made using Concepts of Abstraction, Inheritance and Runtime Polymorphism.
+ * 
+ * This code is Contributed by - S Sreepranav
+ */
+
+
 import java.util.Scanner;
 
 //abstract class
@@ -148,7 +156,7 @@ public class LaunchApp {
 				case 4:
 					break loop;
 				default:
-					System.out.println("Choose proper option");
+					System.out.println("Choose Proper Option");
 					
 			}
 			
@@ -158,5 +166,3 @@ public class LaunchApp {
 	}
 
 }
-
-//This Code is Contributed by - S Sreepranav
