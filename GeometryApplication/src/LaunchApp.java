@@ -154,6 +154,8 @@ public class LaunchApp {
 					calc.calculate(new Circle());
 					break;
 				case 4:
+					System.out.println("Thank you!!");
+					System.out.println("Hope you Enjoyed it!!!!");
 					break loop;
 				default:
 					System.out.println("Choose Proper Option");
